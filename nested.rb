@@ -58,7 +58,7 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-# add the following information to the top level of programmer_hash
+  programmer_hash[:dennis_ritchie][:languagw].join ("")
 # :yukihiro_matsumoto => {
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
